@@ -5522,7 +5522,7 @@
     </attribute>
     <attribute>
         <id>PM_SYSTEM_IVRMS_ENABLED</id>
-        <default>0x0</default>
+        <default>0x1</default>
     </attribute>
     <attribute>
         <id>PM_SYSTEM_IVRM_VPD_MIN_LEVEL</id>
@@ -5558,7 +5558,7 @@
     </attribute>
     <attribute>
         <id>WOF_ENABLED</id>
-        <default>0x0</default>
+        <default>0x1</default>
     </attribute>
     <attribute>
         <id>WOF_PROC_SORT</id>
@@ -5765,8 +5765,8 @@
         <id>WOF_REGULATOR_EFFICIENCIES</id>
         <default>
                  0,20,40,60,80,100,120,140,160,180,200,220,240,260,
-                 60,8747,9017,8943,8910,8776,8696,8495,8360,8207,8044,7881,7718,7555,
-                 120,9414,9430,9438,9379,9372,9321,9295,9218,9114,9002,8950,8860,8771
+                 60,8747,9009,8928,8888,8755,8668,8460,8319,8160,8031,7860,7690,7519,
+                 120,9407,9407,9407,9340,9318,9260,9219,9135,9025,8899,8834,8733,8632
         </default>
     </attribute>
     <attribute>
