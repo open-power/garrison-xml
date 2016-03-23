@@ -5174,6 +5174,10 @@
         <default>0</default>
     </attribute>
     <attribute>
+        <id>BMC_FRU_ID</id>
+        <default>47</default>
+    </attribute>
+    <attribute>
         <id>BOOT_FREQ_MHZ</id>
         <default>2400</default>
     </attribute>
