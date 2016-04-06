@@ -1311,7 +1311,7 @@
 </globalSetting>
 
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -1337,7 +1337,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -1444,7 +1444,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -1484,7 +1484,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -1790,7 +1790,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -1851,7 +1851,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -1990,7 +1990,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2041,7 +2041,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2197,7 +2197,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2374,7 +2374,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2460,7 +2460,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2507,7 +2507,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2589,7 +2589,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2743,7 +2743,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2797,7 +2797,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2856,7 +2856,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2931,7 +2931,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2990,7 +2990,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3009,7 +3009,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3050,7 +3050,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3123,7 +3123,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3182,7 +3182,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3237,7 +3237,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-3/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-0/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3469,7 +3469,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-0/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-3/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3488,7 +3488,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3988,7 +3988,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -4063,7 +4063,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -4205,7 +4205,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -4555,7 +4555,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -4652,7 +4652,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-1/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-2/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -4865,7 +4865,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -5053,7 +5053,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-2/dimm-0</id>
+    <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-1/dimm-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -5338,7 +5338,7 @@
     </attribute>
     <attribute>
         <id>MRW_ENHANCED_GROUPING_NO_MIRRORING</id>
-        <default>true</default>
+        <default>false</default>
     </attribute>
     <attribute>
         <id>MRW_MAX_DRAM_DATABUS_UTIL</id>
