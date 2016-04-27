@@ -1603,47 +1603,47 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/apss-0/Proc0_Power</id>
+    <id>/sys-0/apss-0/Proc0_Core_Power</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
     <value>0xA2</value>
     </property>
     <property>
     <id>INSTANCE_ID</id>
-    <value>Proc0_Power</value>
+    <value>Proc0_Core_Power</value>
     </property>
 </globalSetting>
 <globalSetting>
-        <id>/sys-0/apss-0/Proc1_Power</id>
+        <id>/sys-0/apss-0/Proc1_Core_Power</id>
         <property>
         <id>IPMI_SENSOR_ID</id>
         <value>0xA3</value>
         </property>
         <property>
         <id>INSTANCE_ID</id>
-        <value>Proc1_Power</value>
+        <value>Proc1_Core_Power</value>
         </property>
 </globalSetting>
 <globalSetting>
-        <id>/sys-0/apss-0/PCIE_Proc0_Power</id>
+        <id>/sys-0/apss-0/Proc0_Nest_Cache_Power</id>
         <property>
         <id>IPMI_SENSOR_ID</id>
         <value>0xA6</value>
         </property>
         <property>
         <id>INSTANCE_ID</id>
-        <value>PCIE_Proc0_Power</value>
+        <value>Proc0_Nest_Cache_Power</value>
         </property>
 </globalSetting>
 <globalSetting>
-        <id>/sys-0/apss-0/PCIE_Proc1_Power</id>
+        <id>/sys-0/apss-0/Proc1_Nest_Cache_Power</id>
         <property>
         <id>IPMI_SENSOR_ID</id>
         <value>0xA7</value>
         </property>
         <property>
         <id>INSTANCE_ID</id>
-        <value>PCIE_Proc1_Power</value>
+        <value>Proc1_Nest_Cache_Power</value>
         </property>
 </globalSetting>
 <globalSetting>
@@ -1658,14 +1658,14 @@
         </property>
 </globalSetting>
 <globalSetting>
-        <id>/sys-0/apss-0/Memory_Cache_Power</id>
+        <id>/sys-0/apss-0/Memory_Cache_System_IO_Power</id>
         <property>
         <id>IPMI_SENSOR_ID</id>
         <value>0xAB</value>
         </property>
         <property>
         <id>INSTANCE_ID</id>
-        <value>Memory_Cache_Power</value>
+        <value>Memory_Cache_System_IO_Power</value>
         </property>
 </globalSetting>
 <globalSetting>
@@ -3679,10 +3679,10 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/apss-0/Memory_Proc0_Power</id>
+    <id>/sys-0/apss-0/Proc0_Memory_DIMM_Power</id>
     <property>
     <id>INSTANCE_ID</id>
-    <value>Memory_Proc0_Power</value>
+    <value>Proc0_Memory_DIMM_Power</value>
     </property>
     <property>
     <id>IPMI_SENSOR_ID</id>
@@ -3690,10 +3690,10 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/apss-0/Memory_Proc1_Power</id>
+    <id>/sys-0/apss-0/Proc1_Memory_DIMM_Power</id>
     <property>
     <id>INSTANCE_ID</id>
-    <value>Memory_Proc1_Power</value>
+    <value>Proc1_Memory_DIMM_Power</value>
     </property>
     <property>
     <id>IPMI_SENSOR_ID</id>
@@ -13997,14 +13997,14 @@
     <library_target>true</library_target>
     <instance_name>apss</instance_name>
     <position>0</position>
-    <child_id>Memory_Proc0_Power</child_id>
-    <child_id>Memory_Proc1_Power</child_id>
-    <child_id>Proc0_Power</child_id>
-    <child_id>Proc1_Power</child_id>
-    <child_id>PCIE_Proc0_Power</child_id>
-    <child_id>PCIE_Proc1_Power</child_id>
+    <child_id>Proc0_Memory_DIMM_Power</child_id>
+    <child_id>Proc1_Memory_DIMM_Power</child_id>
+    <child_id>Proc0_Core_Power</child_id>
+    <child_id>Proc1_Core_Power</child_id>
+    <child_id>Proc0_Nest_Cache_Power</child_id>
+    <child_id>Proc1_Nest_Cache_Power</child_id>
     <child_id>Fan_Power_A</child_id>
-    <child_id>Memory_Cache_Power</child_id>
+    <child_id>Memory_Cache_System_IO_Power</child_id>
     <child_id>12V_Sense</child_id>
     <child_id>GPU_Sense</child_id>
     <attribute>
@@ -14041,10 +14041,10 @@
     </attribute>
 </targetInstance>
 <targetInstance>
-    <id>Memory_Proc0_Power</id>
+    <id>Proc0_Memory_DIMM_Power</id>
     <type>unit-apss-sensor</type>
     <library_target>true</library_target>
-    <instance_name>Memory_Proc0_Power</instance_name>
+    <instance_name>Proc0_Memory_DIMM_Power</instance_name>
     <position>-1</position>
     <attribute>
         <id>ADC_CHANNEL_ASSIGNMENT</id>
@@ -14088,7 +14088,7 @@
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_NAME_SUFFIX</id>
-        <default>Memory_Proc0_Power</default>
+        <default>Proc0_Memory_DIMM_Power</default>
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_OFFSETS</id>
@@ -14116,10 +14116,10 @@
     </attribute>
 </targetInstance>
 <targetInstance>
-    <id>Memory_Proc1_Power</id>
+    <id>Proc1_Memory_DIMM_Power</id>
     <type>unit-apss-sensor</type>
     <library_target>true</library_target>
-    <instance_name>Memory_Proc1_Power</instance_name>
+    <instance_name>Proc1_Memory_DIMM_Power</instance_name>
     <position>-1</position>
     <attribute>
         <id>ADC_CHANNEL_ASSIGNMENT</id>
@@ -14163,7 +14163,7 @@
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_NAME_SUFFIX</id>
-        <default>Memory_Proc1_Power</default>
+        <default>Proc1_Memory_DIMM_Power</default>
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_OFFSETS</id>
@@ -14191,10 +14191,10 @@
     </attribute>
 </targetInstance>
 <targetInstance>
-    <id>Proc0_Power</id>
+    <id>Proc0_Core_Power</id>
     <type>unit-apss-sensor</type>
     <library_target>true</library_target>
-    <instance_name>Proc0_Power</instance_name>
+    <instance_name>Proc0_Core_Power</instance_name>
     <position>-1</position>
     <attribute>
         <id>ADC_CHANNEL_ASSIGNMENT</id>
@@ -14238,7 +14238,7 @@
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_NAME_SUFFIX</id>
-        <default>Proc0_Power</default>
+        <default>Proc0_Core_Power</default>
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_OFFSETS</id>
@@ -14266,10 +14266,10 @@
     </attribute>
 </targetInstance>
 <targetInstance>
-    <id>Proc1_Power</id>
+    <id>Proc1_Core_Power</id>
     <type>unit-apss-sensor</type>
     <library_target>true</library_target>
-    <instance_name>Proc1_Power</instance_name>
+    <instance_name>Proc1_Core_Power</instance_name>
     <position>-1</position>
     <attribute>
         <id>ADC_CHANNEL_ASSIGNMENT</id>
@@ -14313,7 +14313,7 @@
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_NAME_SUFFIX</id>
-        <default>Proc1_Power</default>
+        <default>Proc1_Core_Power</default>
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_OFFSETS</id>
@@ -14341,10 +14341,10 @@
     </attribute>
 </targetInstance>
 <targetInstance>
-    <id>PCIE_Proc0_Power</id>
+    <id>Proc0_Nest_Cache_Power</id>
     <type>unit-apss-sensor</type>
     <library_target>true</library_target>
-    <instance_name>PCIE_Proc0_Power</instance_name>
+    <instance_name>Proc0_Nest_Cache_Power</instance_name>
     <position>-1</position>
     <attribute>
         <id>ADC_CHANNEL_ASSIGNMENT</id>
@@ -14388,7 +14388,7 @@
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_NAME_SUFFIX</id>
-        <default>PCIE_Proc0_Power</default>
+        <default>Proc0_Nest_Cache_Power</default>
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_OFFSETS</id>
@@ -14416,10 +14416,10 @@
     </attribute>
 </targetInstance>
 <targetInstance>
-    <id>PCIE_Proc1_Power</id>
+    <id>Proc1_Nest_Cache_Power</id>
     <type>unit-apss-sensor</type>
     <library_target>true</library_target>
-    <instance_name>PCIE_Proc1_Power</instance_name>
+    <instance_name>Proc1_Nest_Cache_Power</instance_name>
     <position>-1</position>
     <attribute>
         <id>ADC_CHANNEL_ASSIGNMENT</id>
@@ -14463,7 +14463,7 @@
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_NAME_SUFFIX</id>
-        <default>PCIE_Proc1_Power</default>
+        <default>Proc1_Nest_Cache_Power</default>
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_OFFSETS</id>
@@ -14566,10 +14566,10 @@
     </attribute>
 </targetInstance>
 <targetInstance>
-    <id>Memory_Cache_Power</id>
+    <id>Memory_Cache_System_IO_Power</id>
     <type>unit-apss-sensor</type>
     <library_target>true</library_target>
-    <instance_name>Memory_Cache_Power</instance_name>
+    <instance_name>Memory_Cache_System_IO_Power</instance_name>
     <position>-1</position>
     <attribute>
         <id>ADC_CHANNEL_ASSIGNMENT</id>
@@ -14613,7 +14613,7 @@
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_NAME_SUFFIX</id>
-        <default>Memory_Cache_Power</default>
+        <default>Memory_Cache_System_IO_Power</default>
     </attribute>
     <attribute>
         <id>IPMI_SENSOR_OFFSETS</id>
