@@ -1517,7 +1517,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/gpu-2/pascal-0</id>
+    <id>/sys-0/node-0/mesquite-0/gpu-1/pascal-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -2636,7 +2636,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/gpu-0/pascal-0</id>
+    <id>/sys-0/node-0/mesquite-0/gpu-3/pascal-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3614,7 +3614,7 @@
         </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/gpu-3/pascal-0</id>
+    <id>/sys-0/node-0/mesquite-0/gpu-0/pascal-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
@@ -3930,7 +3930,7 @@
     </property>
 </globalSetting>
 <globalSetting>
-    <id>/sys-0/node-0/mesquite-0/gpu-1/pascal-0</id>
+    <id>/sys-0/node-0/mesquite-0/gpu-2/pascal-0</id>
     <property>
     <id>IO_CONFIG_SELECT</id>
     <value></value>
