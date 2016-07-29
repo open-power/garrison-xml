@@ -5562,7 +5562,7 @@
     </attribute>
     <attribute>
         <id>WOF_ENABLED</id>
-        <default>0x1</default>
+        <default>0x0</default>
     </attribute>
     <attribute>
         <id>WOF_PROC_SORT</id>
