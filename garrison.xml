@@ -5494,23 +5494,23 @@
     </attribute>
     <attribute>
         <id>PM_RESONANT_CLOCK_FULL_CLOCK_SECTOR_BUFFER_FREQUENCY</id>
-        <default></default>
+        <default>2029000</default>
     </attribute>
     <attribute>
         <id>PM_RESONANT_CLOCK_HIGH_BAND_LOWER_FREQUENCY</id>
-        <default></default>
+        <default>3200000</default>
     </attribute>
     <attribute>
         <id>PM_RESONANT_CLOCK_HIGH_BAND_UPPER_FREQUENCY</id>
-        <default></default>
+        <default>4024000</default>
     </attribute>
     <attribute>
         <id>PM_RESONANT_CLOCK_LOW_BAND_LOWER_FREQUENCY</id>
-        <default></default>
+        <default>2029000</default>
     </attribute>
     <attribute>
         <id>PM_RESONANT_CLOCK_LOW_BAND_UPPER_FREQUENCY</id>
-        <default></default>
+        <default>3200000</default>
     </attribute>
     <attribute>
         <id>PM_SAFE_FREQUENCY</id>
@@ -5526,11 +5526,11 @@
     </attribute>
     <attribute>
         <id>PM_SYSTEM_IVRMS_ENABLED</id>
-        <default>0x1</default>
+        <default>0x0</default>
     </attribute>
     <attribute>
         <id>PM_SYSTEM_IVRM_VPD_MIN_LEVEL</id>
-        <default>0x3</default>
+        <default>0x00</default>
     </attribute>
     <attribute>
         <id>PROC_EPS_TABLE_TYPE</id>
