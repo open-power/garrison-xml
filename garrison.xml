@@ -5294,7 +5294,7 @@
     </attribute>
     <attribute>
         <id>MIN_FREQ_MHZ</id>
-        <default>1400</default>
+        <default>2400</default>
     </attribute>
     <attribute>
         <id>MNFG_ABUS_MIN_EYE_HEIGHT</id>
