@@ -1208,14 +1208,14 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x75</value>
+    <value>0x78</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x74</value>
+    <value>0x71</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -1366,7 +1366,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x2B</value>
+    <value>0x2C</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -1401,7 +1401,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x7B</value>
+    <value>0x7A</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -1440,7 +1440,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x38</value>
+    <value>0x37</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -1506,7 +1506,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x24</value>
+    <value>0x23</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -1737,7 +1737,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x31</value>
+    <value>0x2E</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -1847,7 +1847,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x85</value>
+    <value>0x88</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -1887,7 +1887,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x34</value>
+    <value>0x33</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2070,7 +2070,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x1E</value>
+    <value>0x21</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2165,7 +2165,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x82</value>
+    <value>0x83</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2186,7 +2186,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x28</value>
+    <value>0x27</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2356,14 +2356,14 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x27</value>
+    <value>0x28</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x36</value>
+    <value>0x39</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2442,7 +2442,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x35</value>
+    <value>0x32</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2632,7 +2632,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x71</value>
+    <value>0x74</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2725,7 +2725,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x1F</value>
+    <value>0x20</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2739,7 +2739,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x3D</value>
+    <value>0x3A</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2786,7 +2786,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x2E</value>
+    <value>0x31</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2878,7 +2878,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x21</value>
+    <value>0x1E</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2892,21 +2892,21 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x3B</value>
+    <value>0x3C</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x7A</value>
+    <value>0x7B</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x6F</value>
+    <value>0x6E</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2920,7 +2920,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x2C</value>
+    <value>0x2B</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -2953,21 +2953,21 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x6B</value>
+    <value>0x6A</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x7E</value>
+    <value>0x7F</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x30</value>
+    <value>0x2F</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3222,7 +3222,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x87</value>
+    <value>0x86</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3266,7 +3266,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x32</value>
+    <value>0x35</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3280,7 +3280,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x78</value>
+    <value>0x75</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3298,7 +3298,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x23</value>
+    <value>0x24</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3571,21 +3571,21 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x83</value>
+    <value>0x82</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x39</value>
+    <value>0x36</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x3A</value>
+    <value>0x3D</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3654,7 +3654,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x6C</value>
+    <value>0x69</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3722,7 +3722,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x7C</value>
+    <value>0x79</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -3743,21 +3743,21 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x29</value>
+    <value>0x26</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x6D</value>
+    <value>0x70</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x33</value>
+    <value>0x34</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4017,7 +4017,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x76</value>
+    <value>0x77</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4059,7 +4059,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x2A</value>
+    <value>0x2D</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4092,7 +4092,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x25</value>
+    <value>0x22</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4146,7 +4146,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x80</value>
+    <value>0x7D</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4241,7 +4241,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x73</value>
+    <value>0x72</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4325,14 +4325,14 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x69</value>
+    <value>0x6C</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x37</value>
+    <value>0x38</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4488,7 +4488,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x20</value>
+    <value>0x1F</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4530,7 +4530,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x70</value>
+    <value>0x6D</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4544,7 +4544,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x2F</value>
+    <value>0x30</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4591,7 +4591,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x7F</value>
+    <value>0x7E</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4648,7 +4648,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x77</value>
+    <value>0x76</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4674,14 +4674,14 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x86</value>
+    <value>0x87</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x81</value>
+    <value>0x84</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4699,7 +4699,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x72</value>
+    <value>0x73</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4713,7 +4713,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-4/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x79</value>
+    <value>0x7C</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4742,7 +4742,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-0/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x6A</value>
+    <value>0x6B</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4894,14 +4894,14 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x22</value>
+    <value>0x25</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x88</value>
+    <value>0x85</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4959,7 +4959,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-2/birch-0/dimmconn-0/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x26</value>
+    <value>0x29</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -4984,7 +4984,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-6/birch-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x84</value>
+    <value>0x81</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -5042,14 +5042,14 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-7/birch-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x3C</value>
+    <value>0x3B</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/birchconn-1/birch-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x6E</value>
+    <value>0x6F</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -5089,7 +5089,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-3/birch-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x2D</value>
+    <value>0x2A</value>
     </property>
 </globalSetting>
 <globalSetting>
@@ -5114,7 +5114,7 @@
     <id>/sys-0/node-0/mesquite-0/birchconn-5/birch-0/dimmconn-0/dimm-0/dimm_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0x7D</value>
+    <value>0x80</value>
     </property>
 </globalSetting>
 <globalSetting>
