@@ -1539,56 +1539,56 @@
     <id>/sys-0/node-0/mesquite-0/gpu-0/pascal-0/gpu_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xB8</value>
+    <value>0xBB</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/gpu-1/pascal-0/gpu_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xB9</value>
+    <value>0xBA</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/gpu-2/pascal-0/gpu_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xBA</value>
+    <value>0xB9</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/gpu-3/pascal-0/gpu_func_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xBB</value>
+    <value>0xB8</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/gpu-0/pascal-0/gpu_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xBC</value>
+    <value>0xBF</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/gpu-1/pascal-0/gpu_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xBD</value>
+    <value>0xBE</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/gpu-2/pascal-0/gpu_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xBE</value>
+    <value>0xBD</value>
     </property>
 </globalSetting>
 <globalSetting>
     <id>/sys-0/node-0/mesquite-0/gpu-3/pascal-0/gpu_temp_sensor</id>
     <property>
     <id>IPMI_SENSOR_ID</id>
-    <value>0xBF</value>
+    <value>0xBC</value>
     </property>
 </globalSetting>
 <globalSetting>

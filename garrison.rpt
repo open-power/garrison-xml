@@ -109,14 +109,14 @@
                        FAN2_RPM |       FAN2 |  0xDA  | 0x02 |    0x6f   | 0xC3 |    1 |   50 |            | /sys-0/node-0/mesquite-0/fanconn-1/fan-0
                        FAN3_RPM |       FAN3 |  0xDA  | 0x02 |    0x6f   | 0xC4 |    2 |   51 |            | /sys-0/node-0/mesquite-0/fanconn-2/fan-0
                        FAN4_RPM |       FAN4 |  0xDA  | 0x02 |    0x6f   | 0xC5 |    3 |   52 |            | /sys-0/node-0/mesquite-0/fanconn-3/fan-0
-                      GPU4_Func |       GPU4 |  0xD8  | 0x0C |    0x01   | 0xB8 |    3 |   54 |            | /sys-0/node-0/mesquite-0/gpu-0/pascal-0
-                      GPU4_Temp |       GPU4 |  0xD8  | 0x01 |    0x01   | 0xBC |    3 |   54 |            | /sys-0/node-0/mesquite-0/gpu-0/pascal-0
-                      GPU3_Func |       GPU3 |  0xD8  | 0x0C |    0x01   | 0xB9 |    2 |   53 |            | /sys-0/node-0/mesquite-0/gpu-1/pascal-0
-                      GPU3_Temp |       GPU3 |  0xD8  | 0x01 |    0x01   | 0xBD |    2 |   53 |            | /sys-0/node-0/mesquite-0/gpu-1/pascal-0
-                      GPU2_Func |       GPU2 |  0xD8  | 0x0C |    0x01   | 0xBA |    1 |   45 |            | /sys-0/node-0/mesquite-0/gpu-2/pascal-0
-                      GPU2_Temp |       GPU2 |  0xD8  | 0x01 |    0x01   | 0xBE |    1 |   45 |            | /sys-0/node-0/mesquite-0/gpu-2/pascal-0
-                      GPU1_Func |       GPU1 |  0xD8  | 0x0C |    0x01   | 0xBB |    0 |   44 |            | /sys-0/node-0/mesquite-0/gpu-3/pascal-0
-                      GPU1_Temp |       GPU1 |  0xD8  | 0x01 |    0x01   | 0xBF |    0 |   44 |            | /sys-0/node-0/mesquite-0/gpu-3/pascal-0
+                      GPU4_Func |       GPU4 |  0xD8  | 0x0C |    0x01   | 0xBB |    3 |   54 |            | /sys-0/node-0/mesquite-0/gpu-0/pascal-0
+                      GPU4_Temp |       GPU4 |  0xD8  | 0x01 |    0x01   | 0xBF |    3 |   54 |            | /sys-0/node-0/mesquite-0/gpu-0/pascal-0
+                      GPU3_Func |       GPU3 |  0xD8  | 0x0C |    0x01   | 0xBA |    2 |   53 |            | /sys-0/node-0/mesquite-0/gpu-1/pascal-0
+                      GPU3_Temp |       GPU3 |  0xD8  | 0x01 |    0x01   | 0xBE |    2 |   53 |            | /sys-0/node-0/mesquite-0/gpu-1/pascal-0
+                      GPU2_Func |       GPU2 |  0xD8  | 0x0C |    0x01   | 0xB9 |    1 |   45 |            | /sys-0/node-0/mesquite-0/gpu-2/pascal-0
+                      GPU2_Temp |       GPU2 |  0xD8  | 0x01 |    0x01   | 0xBD |    1 |   45 |            | /sys-0/node-0/mesquite-0/gpu-2/pascal-0
+                      GPU1_Func |       GPU1 |  0xD8  | 0x0C |    0x01   | 0xB8 |    0 |   44 |            | /sys-0/node-0/mesquite-0/gpu-3/pascal-0
+                      GPU1_Temp |       GPU1 |  0xD8  | 0x01 |    0x01   | 0xBC |    0 |   44 |            | /sys-0/node-0/mesquite-0/gpu-3/pascal-0
                       CPU0_Temp |       CPU0 |  0x03  | 0x01 |    0x01   | 0x0B |    0 |    1 | 0x00050000 | /sys-0/node-0/mesquite-0/proc_socket-0/module-0/proc
                       CPU0_Func |       CPU0 |  0x03  | 0x07 |    0x6f   | 0x0C |    0 |    1 | 0x00050000 | /sys-0/node-0/mesquite-0/proc_socket-0/module-0/proc
                      CORE0_Temp |      CORE0 |  0xD0  | 0x01 |    0x01   | 0x89 |    0 |    0 | 0x00070000 | /sys-0/node-0/mesquite-0/proc_socket-0/module-0/proc/ex-1/core-0
