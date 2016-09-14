@@ -9973,7 +9973,7 @@
     <type>connector-card-generic</type>
     <library_target>false</library_target>
     <instance_name>psuconn</instance_name>
-    <position>0</position>
+    <position>1</position>
     <child_id>psu-0</child_id>
     <attribute>
         <id>CLASS</id>
@@ -13603,7 +13603,7 @@
     <type>slot-pcieslot-generic</type>
     <library_target>false</library_target>
     <instance_name>gpu</instance_name>
-    <position>4</position>
+    <position>0</position>
     <child_id>pascal-0</child_id>
     <attribute>
         <id>CLASS</id>
@@ -13627,7 +13627,7 @@
     <type>card-pciecard-card</type>
     <library_target>true</library_target>
     <instance_name>pascal</instance_name>
-    <position>4</position>
+    <position>0</position>
     <child_id>pciep</child_id>
     <hidden_child_id>gpu_func_sensor</hidden_child_id>
     <hidden_child_id>gpu_temp_sensor</hidden_child_id>
@@ -13653,7 +13653,7 @@
     <type>slot-pcieslot-generic</type>
     <library_target>false</library_target>
     <instance_name>gpu</instance_name>
-    <position>5</position>
+    <position>1</position>
     <child_id>pascal-0</child_id>
     <attribute>
         <id>CLASS</id>
@@ -13677,7 +13677,7 @@
     <type>slot-pcieslot-generic</type>
     <library_target>false</library_target>
     <instance_name>gpu</instance_name>
-    <position>6</position>
+    <position>2</position>
     <child_id>pascal-0</child_id>
     <attribute>
         <id>CLASS</id>
@@ -13701,7 +13701,7 @@
     <type>slot-pcieslot-generic</type>
     <library_target>false</library_target>
     <instance_name>gpu</instance_name>
-    <position>7</position>
+    <position>3</position>
     <child_id>pascal-0</child_id>
     <attribute>
         <id>CLASS</id>
