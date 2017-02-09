@@ -5294,7 +5294,7 @@
     </attribute>
     <attribute>
         <id>MIN_FREQ_MHZ</id>
-        <default>2400</default>
+        <default>2061</default>
     </attribute>
     <attribute>
         <id>MNFG_ABUS_MIN_EYE_HEIGHT</id>
@@ -5438,7 +5438,7 @@
     </attribute>
     <attribute>
         <id>OPEN_POWER_N_MAX_MEM_POWER_WATTS</id>
-        <default>500</default>
+        <default>325</default>
     </attribute>
     <attribute>
         <id>OPEN_POWER_N_PLUS_ONE_BULK_POWER_LIMIT_WATTS</id>
