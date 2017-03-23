@@ -5542,7 +5542,7 @@
     </attribute>
     <attribute>
         <id>PM_SAFE_FREQUENCY</id>
-        <default>2400</default>
+        <default>2061</default>
     </attribute>
     <attribute>
         <id>PM_SPIPSS_FREQUENCY</id>
